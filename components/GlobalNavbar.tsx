@@ -24,9 +24,9 @@ export default function GlobalNavbar() {
           <a href="/about" className="hover:underline">About</a>
           <a href="/contact" className="hover:underline">Contact</a>
           <a href="/login" className="hover:underline">Login</a>
-          <a href="/page1" className="hover:underline">Page 1</a>
-          <a href="/page2" className="hover:underline">Page 2</a>
-          <a href="/page3" className="hover:underline">Page 3</a>
+          <a href="/page1" className="hover:underline">Leidt AI-slop tot de dood van sociale media?</a>
+          <a href="/page2" className="hover:underline">Vibecoding: zo maak je in enkele minuten je eigen games, websites en apps met AI</a>
+          <a href="/page3" className="hover:underline">Was het verzet van Dario Amodei tegen minister Hegseth het “Ik ben Spartacus!” moment van Silicon Valley?</a>
         </nav>
       </SidebarSlider>
     </>
