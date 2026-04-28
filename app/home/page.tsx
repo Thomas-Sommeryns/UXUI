@@ -20,8 +20,8 @@ export default function HomePage() {
       id: 'page3',
       title: 'De opkomst van de AI-moeheid',
       preview: 'Na drie jaar constante hype rapporteren gebruikers vaker een gevoel van digitale leegte bij het consumeren van AI-content. We snakken naar menselijkheid...',
-      tag: 'Opinie & Trends',
-      color: 'text-red-600'
+      tag: 'De Technocraat',
+      color: 'text-blue-600'
     }
   ]
 
@@ -30,7 +30,7 @@ export default function HomePage() {
       {/* Welkomstsectie */}
       <div className="mb-16 text-center">
         <h1 className="text-5xl font-extrabold text-gray-900 mb-4 tracking-tight">
-          Welkom bij Mijn Artikelen
+          Homepage
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Ontdek de laatste inzichten over technologie, AI en de toekomst van onze digitale wereld.
