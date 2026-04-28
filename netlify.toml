@@ -1,5 +1,4 @@
 [build]
-  base = "02_Next_starterkit_Pages_Components-main"
   command = "npm run build"
   publish = ".next"
 
