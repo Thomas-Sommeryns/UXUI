@@ -30,7 +30,7 @@ export default function HomePage() {
       {/* Welkomstsectie */}
       <div className="mb-16 text-center">
         <h1 className="text-5xl font-extrabold text-gray-900 mb-4 tracking-tight">
-          Homepage
+          Welkom bij Mijn Artikelen
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Ontdek de laatste inzichten over technologie, AI en de toekomst van onze digitale wereld.
